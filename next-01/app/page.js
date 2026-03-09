@@ -10,7 +10,7 @@ export default function Home() {
             {/* lembrar de mudar a imagem */}
             <Image 
             className="rounded-xl shadow-md"
-            src="/IMG_9232.jpg" 
+            src="/image.jpeg" 
             width={400} height={80} 
             alt="logo"  
             />
